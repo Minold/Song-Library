@@ -28,9 +28,9 @@ int main(){
 		system("clear");
 		printf("\nEnter your name:\t");
 		scanf("%s",info.ac);
-		printf("Enter your phone number:\t");
+		printf("\nEnter your phone number:\t");
 		scanf("%s",info.phone);
-		printf("Enter your new password:\t");
+		printf("\nEnter your new password:\t");
 		scanf("%s",info.password);
 		info.balance=0;
 		stpcpy(ufile,info.phone);
