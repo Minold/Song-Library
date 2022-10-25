@@ -1,8 +1,20 @@
 # smallcprojects
 
-These are my three small C lanauge side projects.
+These are my three small C lanauge side projects and a Java Project
 
-1. bank.c
+1. SongLibrary
+Application designed with a graphical user interface to manage a library of songs. 
+
+Three main functions in this application: Song list display, Song detail, Add/Edit/Delete Songs.
+
+<img width="550" alt="Screen Shot 2022-10-25 at 2 22 33 PM" src="https://user-images.githubusercontent.com/112363463/197852263-8718f61e-f06b-419c-8ee8-404e1ba0a5d1.png">
+
+<img width="550" alt="Screen Shot 2022-10-25 at 2 23 55 PM" src="https://user-images.githubusercontent.com/112363463/197852300-c5dcdb6d-b141-4eab-b7e7-8c760ec395dd.png">
+
+<img width="550" alt="Screen Shot 2022-10-25 at 2 24 19 PM" src="https://user-images.githubusercontent.com/112363463/197852315-0d5737df-158a-4e41-9239-05943c9fecad.png">
+
+
+2. bank.c
 Online Banking System that allows users to create (multiple) accounts and perform normal banking transactions
 
 <img width="550" alt="Screen Shot 2022-09-01 at 11 06 49 PM" src="https://user-images.githubusercontent.com/112363463/188051418-e138ee1b-5a96-4a2d-8f83-20b31fead0a1.png">
@@ -12,7 +24,7 @@ Online transactions between users' accounts is also available
 
 <img width="550" alt="Screen Shot 2022-09-01 at 11 11 02 PM" src="https://user-images.githubusercontent.com/112363463/188051578-eafc0b5d-83ed-4011-a4a5-55aeac558f31.png">
 
-2. restaurants
+3. restaurants
 Restaurant program estimates the total spending in a restaurant and prints the estimate in a form of receipt
 
 <img width="550" alt="Screen Shot 2022-09-02 at 8 38 12 PM" src="https://user-images.githubusercontent.com/112363463/188249202-6d7075cd-e2ec-418c-8a59-d84809ae547b.png">
@@ -26,7 +38,7 @@ Manually inputs item name, quantity, and price. This part can and will be improv
 
 Result. 
 
-3. RPS
+4. RPS
 Simple Rock Paper Scissors game that can be played against the computer.
 
 <img width="550" alt="Screen Shot 2022-09-02 at 8 50 56 PM" src="https://user-images.githubusercontent.com/112363463/188249394-9b36da52-e10e-4978-beb8-81f2a11bee13.png">
