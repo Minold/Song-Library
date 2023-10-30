@@ -1,6 +1,6 @@
-# smallcprojects
 
-These are my three small C lanauge side projects and a Java Project
+
+Java Project
 
 1. SongLibrary
 Application designed with a graphical user interface to manage a library of songs. 
